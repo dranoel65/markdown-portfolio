@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Certificates:
+- Cisco CCNP
+- Cisco CCNA
+- Cisco CCDP
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect
